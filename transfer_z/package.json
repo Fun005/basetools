@@ -1,0 +1,23 @@
+{
+  "name": "itransfer",
+  "version": "1.0.0",
+  "description": "transfer plugin",
+  "main": "Transfer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fun005/itransfer.git"
+  },
+  "keywords": [
+    "transfer",
+    "jquery"
+  ],
+  "author": "tangc1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fun005/itransfer/issues"
+  },
+  "homepage": "https://github.com/Fun005/itransfer#readme"
+}
